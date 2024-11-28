@@ -102,6 +102,5 @@ Implementar uma solução de análise automatizada de documentos utilizando Azur
 Henrique Eduardo Souza<br>
 Microsoft MVP
 
----
 ##
 <div align="center">Feito com carinho por <a href="https://github.com/woeijye">SON</a>.</div>

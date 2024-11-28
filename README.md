@@ -51,7 +51,6 @@ Implementar uma solução de análise automatizada de documentos utilizando Azur
   <tfoot></tfoot>
 </table>
 
----
 ##  Pré-Requisitos
 
 **CONTA DE E-MAIL**, para fazer acessos diversos 

@@ -66,7 +66,7 @@ Implementar uma solução de análise automatizada de documentos utilizando Azur
 - Criar a conta "gratuita".
 - Usar o link fornecido no bootcamp: (https://aka.ms/oaiapply).
   
-
+---
 ### Instruções
 
 1. Criar **Grupo de recursos** dio-lab-doc-fraude no Portal Azure;
@@ -103,5 +103,6 @@ Implementar uma solução de análise automatizada de documentos utilizando Azur
 Henrique Eduardo Souza<br>
 Microsoft MVP
 
+---
 ##
 <div align="center">Feito com carinho por <a href="https://github.com/woeijye">SON</a>.</div>

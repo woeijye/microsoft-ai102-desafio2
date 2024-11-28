@@ -22,7 +22,7 @@ Implementar uma solução de análise automatizada de documentos utilizando Azur
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
+      <th>Macro Etapas</th>
       <th>Observações</th>
     </tr>
   </thead>

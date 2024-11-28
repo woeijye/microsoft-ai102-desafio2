@@ -34,18 +34,18 @@ Implementar uma solução de análise automatizada de documentos utilizando Azur
     </tr>
     <tr>
       <td>02</td>
-      <td>Criar Recurso e Serviços</td>
+      <td>Criar Recurso e Implantar Serviços</td>
       <td>Portal Azure</td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Implantar o modelo básico</td>
+      <td>Adicionar Contêiner para o Cartão de Crédito</td>
       <td>Azure AI Studio</td> 
     </tr>
     <tr>
       <td>04</td>
-      <td>Criar a Camada de Tradução</td>
-      <td>Google Collab</td> 
+      <td>Criar a Camada de Front End</td>
+      <td>VS Code</td> 
     </tr>
   </tbody>
   <tfoot></tfoot>
@@ -69,7 +69,7 @@ Implementar uma solução de análise automatizada de documentos utilizando Azur
 
 ### Instruções
 
-1. Criar **Grupo de recursos** dio-lab-doc-fraude;
+1. Criar **Grupo de recursos** dio-lab-doc-fraude no Portal Azure;
 
 2. Implantar o serviço **Conta de Armazenamento**;
 
